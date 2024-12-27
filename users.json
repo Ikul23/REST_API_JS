@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": "25bdf377-0cf6-4760-a9e6-6d6ee56f33b4",
+      "username": "igor_kul",
+      "createdAt": "2024-12-27T21:53:40.329Z"
+    },
+    {
+      "id": "dd0ec6f9-7b31-4705-b054-6b85d3bfd7a8",
+      "username": "john_write",
+      "createdAt": "2024-12-27T21:54:50.797Z"
+    },
+    {
+      "id": "b715dc26-8c23-4d7a-867c-6e5f5cc0ee5a",
+      "username": "donald_trump",
+      "createdAt": "2024-12-27T21:55:36.806Z"
+    },
+    {
+      "id": "a517712a-6792-468f-96a1-56906b474840",
+      "username": "donald_trum",
+      "createdAt": "2024-12-27T21:57:43.169Z"
+    }
+  ],
+  "clicks": {
+    "/": 7,
+    "/about": 5
+  }
+}
